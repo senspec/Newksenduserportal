@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="portalvalidation.NewtRegistration">
+        <methods>
+          <include name="shutDownSelenium"/>
+          <include name="setUp"/>
+          <include name="testUsingExcel" invocation-numbers="2 9 10 11 16 17 18"/>
+        </methods>
+      </class> <!-- portalvalidation.NewtRegistration -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,147 @@
+10:17:11.939 INFO  portalvalidation.Myprofileedit -Last name is empty on Submit:senspeeec11@gmail.com TC_02
+10:17:35.393 INFO  portalvalidation.Myprofileedit -zip is empty on TAB:senspeeec11@gmail.com TC_03
+10:17:40.860 INFO  portalvalidation.Myprofileedit -Zip empty and favloc empty on Submit:senspeeec11@gmail.com TC_03
+10:18:09.497 INFO  portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04
+10:21:45.524 ERROR portalvalidation.Myprofileedit -Last name is empty on Submit:senspeeec11@gmail.com TC_02
+10:22:09.346 ERROR portalvalidation.Myprofileedit -zip is empty on TAB:senspeeec11@gmail.com TC_03
+10:22:14.833 ERROR portalvalidation.Myprofileedit -Zip empty and favloc empty on Submit:senspeeec11@gmail.com TC_03
+10:22:43.410 ERROR portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04
+10:29:23.233 ERROR portalvalidation.Myprofileedit -First name is not same as provided during registration:
+10:29:39.493 ERROR portalvalidation.Myprofileedit -First name less than 2 chars on Submit:senspeeec11@gmail.com TC_01
+10:30:08.225 ERROR portalvalidation.Myprofileedit -Last name is empty on Submit:senspeeec11@gmail.com TC_02
+10:30:31.676 ERROR portalvalidation.Myprofileedit -zip is empty on TAB:senspeeec11@gmail.com TC_03
+10:30:37.167 ERROR portalvalidation.Myprofileedit -Zip empty and favloc empty on Submit:senspeeec11@gmail.com TC_03
+10:31:05.853 ERROR portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04
+10:42:07.897 ERROR portalvalidation.Myprofileedit -First name is not same as provided during registration:
+10:43:30.736 INFO  portalvalidation.Myprofileedit -zip is empty on TAB:senspeeec11@gmail.com TC_03
+10:44:02.034 ERROR portalvalidation.Myprofileedit -First name is not same as provided during registration:
+10:44:02.068 ERROR portalvalidation.Myprofileedit -Last name is not same as provided during registration:
+10:44:02.094 ERROR portalvalidation.Myprofileedit -Email ID is not same as provided during registration:
+10:44:02.119 ERROR portalvalidation.Myprofileedit -Mobile Number is not same as provided during registration:
+10:44:02.141 ERROR portalvalidation.Myprofileedit -Birthdate is not same as provided during registration:
+10:44:02.176 ERROR portalvalidation.Myprofileedit -Location is not same as expected:
+10:44:02.198 ERROR portalvalidation.Myprofileedit -Zipcode is not same as expected:
+10:44:14.447 INFO  portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04
+10:47:33.225 ERROR portalvalidation.Myprofileedit -First name is not same as provided during registration:
+10:47:52.287 INFO  portalvalidation.Myprofileedit -First name less than 2 chars on Submit:senspeeec11@gmail.com TC_01
+10:48:24.257 INFO  portalvalidation.Myprofileedit -Last name is empty on Submit:senspeeec11@gmail.com TC_02
+10:48:47.534 INFO  portalvalidation.Myprofileedit -zip is empty on TAB:senspeeec11@gmail.com TC_03
+10:48:53.016 INFO  portalvalidation.Myprofileedit -Zip empty and favloc empty on Submit:senspeeec11@gmail.com TC_03
+10:49:21.480 INFO  portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04
+10:55:55.438 ERROR portalvalidation.Myprofileedit -First name is not same as provided during registration:
+10:56:14.410 INFO  portalvalidation.Myprofileedit -First name less than 2 chars on Submit:senspeeec11@gmail.com TC_01
+10:56:46.123 INFO  portalvalidation.Myprofileedit -Last name is empty on Submit:senspeeec11@gmail.com TC_02
+10:57:21.883 ERROR portalvalidation.Myprofileedit -First name is not same as provided during registration:
+10:57:21.905 ERROR portalvalidation.Myprofileedit -Last name is not same as provided during registration:
+10:57:21.925 ERROR portalvalidation.Myprofileedit -Email ID is not same as provided during registration:
+10:57:21.947 ERROR portalvalidation.Myprofileedit -Mobile Number is not same as provided during registration:
+10:57:21.967 ERROR portalvalidation.Myprofileedit -Birthdate is not same as provided during registration:
+10:57:21.991 ERROR portalvalidation.Myprofileedit -Location is not same as expected:
+10:57:22.011 ERROR portalvalidation.Myprofileedit -Zipcode is not same as expected:
+10:57:34.037 INFO  portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04
+15:36:07.491 INFO  portalvalidation.ProfileLink -Switched to Frame to Click Menu
+15:36:10.644 INFO  portalvalidation.ProfileLink -Switched to Order Page
+15:36:16.755 INFO  portalvalidation.ProfileLink -Switched back to Profile Page from Order
+15:36:16.866 INFO  portalvalidation.ProfileLink -Switched out of frame
+15:36:16.873 INFO  portalvalidation.ProfileLink -Switched to frame to click Location: TC_01
+15:36:16.936 INFO  portalvalidation.ProfileLink -Location is clicked: TC_01
+15:36:20.393 INFO  portalvalidation.ProfileLink -Switched to location URL: TC_01
+15:36:26.485 INFO  portalvalidation.ProfileLink -Switched back to Profile URL: TC_01
+15:36:26.597 INFO  portalvalidation.ProfileLink -Switched out of frame: TC_01
+15:36:26.606 INFO  portalvalidation.ProfileLink -Switched to frame to click Inside the Eatery :TC_01
+15:36:29.710 INFO  portalvalidation.ProfileLink -Switched to Inside the Eatery Page :TC_01
+15:36:35.806 INFO  portalvalidation.ProfileLink -Switched back to profile page :TC_01
+15:36:35.914 INFO  portalvalidation.ProfileLink -Switched out of frame :TC_01
+15:36:35.923 INFO  portalvalidation.ProfileLink -Switched to frame to click Catering :TC_01
+15:36:35.988 INFO  portalvalidation.ProfileLink -Catering is clicked :TC_01
+15:36:39.018 INFO  portalvalidation.ProfileLink -Switched to Catering Page :TC_01
+15:36:58.676 INFO  portalvalidation.ProfileLink -Switched to Frame to Click Menu
+15:37:01.770 INFO  portalvalidation.ProfileLink -Switched to Order Page
+15:39:25.498 INFO  portalvalidation.ProfileLink -Switched to Frame to Click Menu
+15:39:28.614 INFO  portalvalidation.ProfileLink -Switched to Order Page
+15:39:34.721 INFO  portalvalidation.ProfileLink -Switched back to Profile Page from Order
+15:39:34.834 INFO  portalvalidation.ProfileLink -Switched out of frame
+15:39:34.841 INFO  portalvalidation.ProfileLink -Switched to frame to click Location: TC_01
+15:39:34.907 INFO  portalvalidation.ProfileLink -Location is clicked: TC_01
+15:39:37.939 INFO  portalvalidation.ProfileLink -Switched to location URL: TC_01
+15:39:44.082 INFO  portalvalidation.ProfileLink -Switched back to Profile URL: TC_01
+15:39:44.194 INFO  portalvalidation.ProfileLink -Switched out of frame: TC_01
+15:39:44.202 INFO  portalvalidation.ProfileLink -Switched to frame to click Inside the Eatery :TC_01
+15:39:47.294 INFO  portalvalidation.ProfileLink -Switched to Inside the Eatery Page :TC_01
+15:39:53.381 INFO  portalvalidation.ProfileLink -Switched back to profile page :TC_01
+15:39:53.493 INFO  portalvalidation.ProfileLink -Switched out of frame :TC_01
+15:39:53.502 INFO  portalvalidation.ProfileLink -Switched to frame to click Catering :TC_01
+15:39:53.566 INFO  portalvalidation.ProfileLink -Catering is clicked :TC_01
+15:39:56.590 INFO  portalvalidation.ProfileLink -Switched to Catering Page :TC_01
+15:40:02.683 INFO  portalvalidation.ProfileLink -Switched back to Profile Page :TC_01
+15:40:02.794 INFO  portalvalidation.ProfileLink -moved out of frame :TC_01
+15:40:02.804 INFO  portalvalidation.ProfileLink -Switched to frame to click Roudtable Club :TC_01
+15:40:06.848 INFO  portalvalidation.ProfileLink -Switched to click Roudtable Club Page :TC_01
+15:40:12.950 INFO  portalvalidation.ProfileLink -Switched back to Profile Page :TC_01
+15:40:13.066 INFO  portalvalidation.ProfileLink -Moved out of Frame :TC_01
+15:40:25.956 INFO  portalvalidation.ProfileLink -Switched to Frame to Click Menu
+15:40:29.046 INFO  portalvalidation.ProfileLink -Switched to Order Page
+15:40:35.150 INFO  portalvalidation.ProfileLink -Switched back to Profile Page from Order
+15:40:35.258 INFO  portalvalidation.ProfileLink -Switched out of frame
+15:40:35.268 INFO  portalvalidation.ProfileLink -Switched to frame to click Location: TC_02
+15:40:35.332 INFO  portalvalidation.ProfileLink -Location is clicked: TC_02
+15:40:38.410 INFO  portalvalidation.ProfileLink -Switched to location URL: TC_02
+15:40:44.507 INFO  portalvalidation.ProfileLink -Switched back to Profile URL: TC_02
+15:40:44.623 INFO  portalvalidation.ProfileLink -Switched out of frame: TC_02
+15:40:44.633 INFO  portalvalidation.ProfileLink -Switched to frame to click Inside the Eatery :TC_02
+15:40:47.724 INFO  portalvalidation.ProfileLink -Switched to Inside the Eatery Page :TC_02
+15:40:53.820 INFO  portalvalidation.ProfileLink -Switched back to profile page :TC_02
+15:40:53.931 INFO  portalvalidation.ProfileLink -Switched out of frame :TC_02
+15:40:53.940 INFO  portalvalidation.ProfileLink -Switched to frame to click Catering :TC_02
+15:40:54.015 INFO  portalvalidation.ProfileLink -Catering is clicked :TC_02
+15:40:57.039 INFO  portalvalidation.ProfileLink -Switched to Catering Page :TC_02
+15:41:03.137 INFO  portalvalidation.ProfileLink -Switched back to Profile Page :TC_02
+15:41:03.248 INFO  portalvalidation.ProfileLink -moved out of frame :TC_02
+15:41:03.256 INFO  portalvalidation.ProfileLink -Switched to frame to click Roudtable Club :TC_02
+15:41:06.352 INFO  portalvalidation.ProfileLink -Switched to click Roudtable Club Page :TC_02
+15:41:12.487 INFO  portalvalidation.ProfileLink -Switched back to Profile Page :TC_02
+15:41:12.598 INFO  portalvalidation.ProfileLink -Moved out of Frame :TC_02
+15:51:45.443 INFO  portalvalidation.ProfileLink -Navigated to Order Page: TC_01
+15:51:54.995 INFO  portalvalidation.ProfileLink -Navigated to Locations Page: TC_01
+15:52:04.712 INFO  portalvalidation.ProfileLink -Navigated to Eatery Page: TC_01
+15:52:14.424 INFO  portalvalidation.ProfileLink -Navigated to Catering Page: TC_01
+15:52:24.217 INFO  portalvalidation.ProfileLink -Navigated to RoundTable Page: TC_01
+15:52:46.646 INFO  portalvalidation.ProfileLink -Navigated to Order Page: TC_02
+15:52:56.218 INFO  portalvalidation.ProfileLink -Navigated to Locations Page: TC_02
+15:53:05.883 INFO  portalvalidation.ProfileLink -Navigated to Eatery Page: TC_02
+15:53:15.593 INFO  portalvalidation.ProfileLink -Navigated to Catering Page: TC_02
+15:53:25.275 INFO  portalvalidation.ProfileLink -Navigated to RoundTable Page: TC_02
+17:59:55.157 INFO  portalvalidation.ForgotPass -Email Address is required. : TC_05
+18:00:03.819 INFO  portalvalidation.ForgotPass -Email Address not Valid :.username@yahoo.com TC_01
+18:00:10.845 INFO  portalvalidation.ForgotPass -Sorry, The Email Id is not registered with us. :senspeeec@gmail.com TC_02
+20:37:16.839 INFO  portalvalidation.ForgotPass -Email Address is required. : TC_05
+20:37:24.439 INFO  portalvalidation.ForgotPass -Email Address not Valid :.username@yahoo.com TC_01
+20:37:31.774 INFO  portalvalidation.ForgotPass -Sorry, The Email Id is not registered with us. :senspeeec@gmail.com TC_02
+20:37:40.063 INFO  portalvalidation.ForgotPass -Forgot Password email sent, please check your inbox.:senspeeec11@gmail.com TC_03
+20:37:53.412 INFO  portalvalidation.ForgotPass -Sorry, The Email Id is not registered with us. :user_name@domain.com TC_04
+20:52:28.813 INFO  portalvalidation.ForgotPass -Email Address is required. : TC_05
+20:52:36.404 INFO  portalvalidation.ForgotPass -Email Address not Valid :.username@yahoo.com TC_01
+20:52:43.738 INFO  portalvalidation.ForgotPass -Sorry, The Email Id is not registered with us. :senspeeec@gmail.com TC_02
+20:52:51.560 INFO  portalvalidation.ForgotPass -Forgot Password email sent, please check your inbox.:senspeeec11@gmail.com TC_03
+20:53:04.869 INFO  portalvalidation.ForgotPass -Sorry, The Email Id is not registered with us. :user_name@domain.com TC_04
+20:55:23.868 INFO  portalvalidation.Login -Email/Mobile is invalid and Password not empty:.username@yahoo.com TC_01
+20:57:45.342 INFO  portalvalidation.Login -Email/Mobile is invalid and Password not empty:.username@yahoo.com TC_01
+20:57:53.588 INFO  portalvalidation.Login -Email/Mobile is invalid and Password empty :username@yahoo.com. TC_02
+20:58:00.669 INFO  portalvalidation.Login -Email/Mobile is invalid and Password empty :username@yahoo..com TC_03
+20:58:07.899 INFO  portalvalidation.Login -Email/Mobile is valid but Password is empty :user@domain.com TC_04
+20:58:15.182 INFO  portalvalidation.Login -Email/Mobile is invalid and Password not empty:user_name@@domain.com TC_05
+20:58:22.872 INFO  portalvalidation.Login -Email/Mobile is valid but Password is incorrect :user_name@domain.com TC_06
+20:58:29.846 INFO  portalvalidation.Login -Email/Mobile and Password are empty : TC_07
+20:58:36.700 INFO  portalvalidation.Login -Email/Mobile is invalid and Password not empty:86070 TC_08
+20:58:43.665 INFO  portalvalidation.Login -Email/Mobile is invalid and Password empty :888 TC_09
+20:58:50.649 INFO  portalvalidation.Login -Email/Mobile is invalid and Password empty :87899898 TC_10
+20:58:57.822 INFO  portalvalidation.Login -Email/Mobile is valid but Password is empty :860-709-5221 TC_11
+20:59:05.353 INFO  portalvalidation.Login -Email/Mobile is valid but Password is incorrect :860-709-5220 TC_12
+21:16:40.754 ERROR portalvalidation.Myprofileedit -First name is not same as provided during registration:
+21:17:00.099 INFO  portalvalidation.Myprofileedit -First name less than 2 chars on Submit:senspeeec11@gmail.com TC_01
+21:17:32.436 INFO  portalvalidation.Myprofileedit -Last name is empty on Submit:senspeeec11@gmail.com TC_02
+21:17:56.091 INFO  portalvalidation.Myprofileedit -zip is empty on TAB:senspeeec11@gmail.com TC_03
+21:18:01.688 INFO  portalvalidation.Myprofileedit -Zip empty and favloc empty on Submit:senspeeec11@gmail.com TC_03
+21:18:30.625 INFO  portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04
+21:37:19.515 INFO  portalvalidation.NewtRegistration -fname is less than 2 chars on Submit: S TC_01
+21:37:54.674 INFO  portalvalidation.NewtRegistration -fname is empty on Submit:  TC_02

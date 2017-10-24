@@ -1,0 +1,65 @@
+12:04:42.884 INFO  portalvalidation.Myprofileedit -First name less than 2 chars on Submit:senspeeec11@gmail.com TC_01
+12:05:12.152 INFO  portalvalidation.Myprofileedit -Last name is empty on Submit:senspeeec11@gmail.com TC_02
+12:05:35.771 INFO  portalvalidation.Myprofileedit -zip is empty on TAB:senspeeec11@gmail.com TC_03
+12:05:41.385 INFO  portalvalidation.Myprofileedit -Zip empty and favloc empty on Submit:senspeeec11@gmail.com TC_03
+12:06:10.286 INFO  portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04
+12:15:54.525 INFO  portalvalidation.Myprofileedit -Last name is empty on Submit:senspeeec11@gmail.com TC_02
+12:16:18.170 INFO  portalvalidation.Myprofileedit -zip is empty on TAB:senspeeec11@gmail.com TC_03
+12:16:23.806 INFO  portalvalidation.Myprofileedit -Zip empty and favloc empty on Submit:senspeeec11@gmail.com TC_03
+12:16:53.137 INFO  portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04
+12:35:25.197 INFO  portalvalidation.Myprofileedit -Last name is empty on Submit:senspeeec11@gmail.com TC_02
+12:35:48.615 INFO  portalvalidation.Myprofileedit -zip is empty on TAB:senspeeec11@gmail.com TC_03
+12:35:54.131 INFO  portalvalidation.Myprofileedit -Zip empty and favloc empty on Submit:senspeeec11@gmail.com TC_03
+12:36:22.619 INFO  portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04
+12:47:34.409 INFO  portalvalidation.Myprofileedit -Last name is empty on Submit:senspeeec11@gmail.com TC_02
+12:47:58.582 INFO  portalvalidation.Myprofileedit -zip is empty on TAB:senspeeec11@gmail.com TC_03
+12:48:04.196 INFO  portalvalidation.Myprofileedit -Zip empty and favloc empty on Submit:senspeeec11@gmail.com TC_03
+12:48:33.436 INFO  portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04
+13:27:36.008 INFO  portalvalidation.Myprofileedit -Last name is empty on Submit:senspeeec11@gmail.com TC_02
+13:28:02.443 INFO  portalvalidation.Myprofileedit -zip is empty on TAB:senspeeec11@gmail.com TC_03
+13:28:08.559 INFO  portalvalidation.Myprofileedit -Zip empty and favloc empty on Submit:senspeeec11@gmail.com TC_03
+13:28:39.694 INFO  portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04
+13:39:01.607 INFO  portalvalidation.Myprofileedit -Last name is empty on Submit:senspeeec11@gmail.com TC_02
+13:39:27.728 INFO  portalvalidation.Myprofileedit -zip is empty on TAB:senspeeec11@gmail.com TC_03
+13:39:33.652 INFO  portalvalidation.Myprofileedit -Zip empty and favloc empty on Submit:senspeeec11@gmail.com TC_03
+13:40:05.718 INFO  portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04
+13:44:30.422 INFO  portalvalidation.Myprofileedit -Last name is empty on Submit:senspeeec11@gmail.com TC_02
+13:44:56.702 INFO  portalvalidation.Myprofileedit -zip is empty on TAB:senspeeec11@gmail.com TC_03
+13:45:02.829 INFO  portalvalidation.Myprofileedit -Zip empty and favloc empty on Submit:senspeeec11@gmail.com TC_03
+13:45:36.280 INFO  portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04
+18:36:21.743 INFO  portalvalidation.Myprofileedit -Last name is empty on Submit:senspeeec11@gmail.com TC_02
+18:36:48.610 INFO  portalvalidation.Myprofileedit -zip is empty on TAB:senspeeec11@gmail.com TC_03
+18:36:54.584 INFO  portalvalidation.Myprofileedit -Zip empty and favloc empty on Submit:senspeeec11@gmail.com TC_03
+18:37:26.405 INFO  portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04
+18:57:08.402 INFO  portalvalidation.Myprofileedit -Last name is empty on Submit:senspeeec11@gmail.com TC_02
+18:57:35.515 INFO  portalvalidation.Myprofileedit -zip is empty on TAB:senspeeec11@gmail.com TC_03
+18:57:41.834 INFO  portalvalidation.Myprofileedit -Zip empty and favloc empty on Submit:senspeeec11@gmail.com TC_03
+18:58:14.618 INFO  portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04
+19:09:00.925 INFO  portalvalidation.Myprofileedit -Last name is empty on Submit:senspeeec11@gmail.com TC_02
+19:09:28.546 INFO  portalvalidation.Myprofileedit -zip is empty on TAB:senspeeec11@gmail.com TC_03
+19:09:34.857 INFO  portalvalidation.Myprofileedit -Zip empty and favloc empty on Submit:senspeeec11@gmail.com TC_03
+19:10:08.208 INFO  portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04
+19:19:46.592 INFO  portalvalidation.Myprofileedit -Last name is empty on Submit:senspeeec11@gmail.com TC_02
+19:20:14.745 INFO  portalvalidation.Myprofileedit -zip is empty on TAB:senspeeec11@gmail.com TC_03
+19:20:21.314 INFO  portalvalidation.Myprofileedit -Zip empty and favloc empty on Submit:senspeeec11@gmail.com TC_03
+19:20:55.782 INFO  portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04
+19:46:59.584 INFO  portalvalidation.Myprofileedit -Last name is empty on Submit:senspeeec11@gmail.com TC_02
+19:47:29.136 INFO  portalvalidation.Myprofileedit -zip is empty on TAB:senspeeec11@gmail.com TC_03
+19:47:35.756 INFO  portalvalidation.Myprofileedit -Zip empty and favloc empty on Submit:senspeeec11@gmail.com TC_03
+19:48:10.875 INFO  portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04
+19:56:44.207 INFO  portalvalidation.Myprofileedit -Last name is empty on Submit:senspeeec11@gmail.com TC_02
+19:57:07.408 INFO  portalvalidation.Myprofileedit -zip is empty on TAB:senspeeec11@gmail.com TC_03
+19:57:12.914 INFO  portalvalidation.Myprofileedit -Zip empty and favloc empty on Submit:senspeeec11@gmail.com TC_03
+19:57:41.351 INFO  portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04
+20:18:19.839 INFO  portalvalidation.Myprofileedit -Last name is empty on Submit:senspeeec11@gmail.com TC_02
+20:18:43.206 INFO  portalvalidation.Myprofileedit -zip is empty on TAB:senspeeec11@gmail.com TC_03
+20:18:48.718 INFO  portalvalidation.Myprofileedit -Zip empty and favloc empty on Submit:senspeeec11@gmail.com TC_03
+20:19:17.296 INFO  portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04
+20:36:10.685 INFO  portalvalidation.Myprofileedit -Last name is empty on Submit:senspeeec11@gmail.com TC_02
+20:36:34.172 INFO  portalvalidation.Myprofileedit -zip is empty on TAB:senspeeec11@gmail.com TC_03
+20:36:39.710 INFO  portalvalidation.Myprofileedit -Zip empty and favloc empty on Submit:senspeeec11@gmail.com TC_03
+20:37:08.784 INFO  portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04
+20:44:30.953 INFO  portalvalidation.Myprofileedit -Last name is empty on Submit:senspeeec11@gmail.com TC_02
+20:44:54.736 INFO  portalvalidation.Myprofileedit -zip is empty on TAB:senspeeec11@gmail.com TC_03
+20:45:00.301 INFO  portalvalidation.Myprofileedit -Zip empty and favloc empty on Submit:senspeeec11@gmail.com TC_03
+20:45:29.107 INFO  portalvalidation.Myprofileedit -Zip valid and favloc empty on Submit:senspeeec11@gmail.com TC_04

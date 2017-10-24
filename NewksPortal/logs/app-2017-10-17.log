@@ -1,0 +1,21 @@
+08:07:47.264 INFO  portalvalidation.ForgotPass -Email Address is required. :
+08:07:54.652 INFO  portalvalidation.ForgotPass -Email Address not Valid :.username@yahoo.com
+08:08:02.255 INFO  portalvalidation.ForgotPass -Sorry, The Email Id is not registered with us. :senspeeec@gmail.com
+08:08:09.622 INFO  portalvalidation.ForgotPass -Forgot Password email sent, please check your inbox.:senspeeec11@gmail.com
+08:08:27.023 INFO  portalvalidation.ForgotPass -Sorry, The Email Id is not registered with us. :user_name@domain.com
+08:25:20.712 INFO  portalvalidation.ForgotPass -Email Address is required. :
+08:31:41.857 INFO  portalvalidation.ForgotPass -Email Address is required. :
+08:31:49.326 INFO  portalvalidation.ForgotPass -Email Address not Valid :.username@yahoo.com
+08:31:56.708 INFO  portalvalidation.ForgotPass -Sorry, The Email Id is not registered with us. :senspeeec@gmail.com
+08:32:04.714 INFO  portalvalidation.ForgotPass -Forgot Password email sent, please check your inbox.:senspeeec11@gmail.com
+08:32:12.779 INFO  portalvalidation.ForgotPass -Sorry, The Email Id is not registered with us. :user_name@domain.com
+08:37:20.747 INFO  portalvalidation.ForgotPass -Email Address is required. :
+08:37:28.350 INFO  portalvalidation.ForgotPass -Email Address not Valid :.username@yahoo.com
+08:37:35.794 INFO  portalvalidation.ForgotPass -Sorry, The Email Id is not registered with us. :senspeeec@gmail.com
+08:37:44.144 INFO  portalvalidation.ForgotPass -Forgot Password email sent, please check your inbox.:senspeeec11@gmail.com
+08:37:52.798 INFO  portalvalidation.ForgotPass -Sorry, The Email Id is not registered with us. :user_name@domain.com
+08:40:29.263 INFO  portalvalidation.ForgotPass -Email Address is required. :
+08:40:36.877 INFO  portalvalidation.ForgotPass -Email Address not Valid :.username@yahoo.com
+08:40:44.155 INFO  portalvalidation.ForgotPass -Sorry, The Email Id is not registered with us. :senspeeec@gmail.com
+08:40:52.009 INFO  portalvalidation.ForgotPass -Forgot Password email sent, please check your inbox.:senspeeec11@gmail.com
+08:41:05.393 INFO  portalvalidation.ForgotPass -Sorry, The Email Id is not registered with us. :user_name@domain.com

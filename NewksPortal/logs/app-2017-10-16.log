@@ -1,0 +1,13 @@
+23:08:15.804 INFO  portalvalidation.ForgotPass -Email Address not Valid :.username@yahoo.com
+23:08:19.122 INFO  portalvalidation.ForgotPass -Sorry, The Email Id is not registered with us. :senspeeec@gmail.com
+23:08:22.900 INFO  portalvalidation.ForgotPass -Forgot Password email sent, please check your inbox.:senspeeec11@gmail.com
+23:08:27.628 INFO  portalvalidation.ForgotPass -Sorry, The Email Id is not registered with us. :user_name@domain.com
+23:08:31.217 INFO  portalvalidation.ForgotPass -Email Address is required. :
+23:29:16.604 INFO  portalvalidation.ForgotPass -Email Address not Valid :.username@yahoo.com
+23:29:19.373 INFO  portalvalidation.ForgotPass -Sorry, The Email Id is not registered with us. :senspeeec@gmail.com
+23:31:31.674 INFO  portalvalidation.ForgotPass -Email Address not Valid :.username@yahoo.com
+23:31:39.814 INFO  portalvalidation.ForgotPass -Sorry, The Email Id is not registered with us. :senspeeec@gmail.com
+23:33:41.233 INFO  portalvalidation.ForgotPass -Email Address not Valid :.username@yahoo.com
+23:33:48.992 INFO  portalvalidation.ForgotPass -Sorry, The Email Id is not registered with us. :senspeeec@gmail.com
+23:40:10.228 INFO  portalvalidation.ForgotPass -Email Address not Valid :.username@yahoo.com
+23:40:17.750 INFO  portalvalidation.ForgotPass -Sorry, The Email Id is not registered with us. :senspeeec@gmail.com

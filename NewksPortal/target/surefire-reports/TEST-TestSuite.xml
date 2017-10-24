@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="77.871" tests="4" errors="0" skipped="3" failures="1">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\bin"/>
+    <property name="java.vm.version" value="25.121-b13"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="E:\GitWebDriverMaven\NewksPortal"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="E:\GitWebDriverMaven\NewksPortal"/>
+    <property name="java.runtime.version" value="1.8.0_121-b13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\User\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="E:\GitWebDriverMaven\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf354078053240369193.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.8.0_121/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_121/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_121/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Program Files\Apache\apache-maven-3.5.0\bin;E:\\SeleniumDrivers;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\AppData\Roaming\npm;E:\eclipse-java-neon-2-win32-x86_64\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\User"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="User"/>
+    <property name="java.class.path" value="/E:/eclipse-java-neon-2-win32-x86_64/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.6.1.20150625-2337/jars/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_121\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_121"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_121\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="E:\GitWebDriverMaven\NewksPortal\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="setUp" classname="portalvalidation.ProfileLink" time="77.333">
+    <failure message="Error loading page, timed out (onDOMContentLoaded)&#10;Build info: version: &apos;3.0.1&apos;, revision: &apos;1969d75&apos;, time: &apos;2016-10-18 09:49:13 -0700&apos;&#10;System info: host: &apos;DESKTOP-84BCDDP&apos;, ip: &apos;192.168.56.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_121&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities [{moz:profile=C:\Users\User\AppData\Local\Temp\rust_mozprofile.N8uHgioqphu4, rotatable=false, timeouts={implicit=0, page load=300000, script=30000}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=52.0, platformVersion=10.0, moz:processID=952, browserName=firefox, platformName=windows_nt}]&#10;Session ID: a2c32352-146c-46de-bf3a-56cbad3fadd2" type="org.openqa.selenium.TimeoutException">org.openqa.selenium.TimeoutException: 
+Error loading page, timed out (onDOMContentLoaded)
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'DESKTOP-84BCDDP', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\User\AppData\Local\Temp\rust_mozprofile.N8uHgioqphu4, rotatable=false, timeouts={implicit=0, page load=300000, script=30000}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=52.0, platformVersion=10.0, moz:processID=952, browserName=firefox, platformName=windows_nt}]
+Session ID: a2c32352-146c-46de-bf3a-56cbad3fadd2
+	at portalvalidation.ProfileLink.setUp(ProfileLink.java:52)
+</failure>
+    <system-err><![CDATA[1508775436454	geckodriver	INFO	Listening on 127.0.0.1:38210
+Oct 23, 2017 9:47:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Attempting bi-dialect session, assuming Postel's Law holds true on the remote end
+log4j:WARN No appenders could be found for logger (org.apache.http.client.protocol.RequestAddCookies).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+1508775445502	mozprofile::profile	INFO	Using profile path C:\Users\User\AppData\Local\Temp\rust_mozprofile.N8uHgioqphu4
+1508775447019	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1508775447044	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53347
+1508775447323	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+1508775447326	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1508775447332	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1508775447335	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1508775447337	addons.manager	DEBUG	Starting provider: XPIProvider
+1508775447337	addons.xpi	DEBUG	startup
+1508775447339	addons.xpi	INFO	Mapping firebug@software.joehewitt.com to C:\Users\User\AppData\Local\Temp\rust_mozprofile.N8uHgioqphu4\extensions\firebug@software.joehewitt.com.xpi
+1508775447339	addons.xpi	INFO	Mapping FireXPath@pierre.tholence.com to C:\Users\User\AppData\Local\Temp\rust_mozprofile.N8uHgioqphu4\extensions\FireXPath@pierre.tholence.com.xpi
+1508775447340	addons.xpi	INFO	Mapping jid0-OrDwsV63wgU4TFI6yptWagbfUE8@jetpack to C:\Users\User\AppData\Local\Temp\rust_mozprofile.N8uHgioqphu4\extensions\jid0-OrDwsV63wgU4TFI6yptWagbfUE8@jetpack.xpi
+1508775447340	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1508775447342	addons.xpi	INFO	Mapping aushelper@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1508775447343	addons.xpi	INFO	Mapping e10srollout@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1508775447343	addons.xpi	INFO	Mapping firefox@getpocket.com to C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1508775447344	addons.xpi	INFO	Mapping webcompat@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1508775447346	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1508775447347	addons.xpi	DEBUG	checkForChanges
+1508775447348	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1508775447348	addons.xpi	DEBUG	Loaded add-on state from prefs: {"app-profile":{"firebug@software.joehewitt.com":{"d":"C:\\Users\\User\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\Senthil\\extensions\\firebug@software.joehewitt.com.xpi","e":true,"v":"2.0.17","st":1489456354153},"FireXPath@pierre.tholence.com":{"d":"C:\\Users\\User\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\Senthil\\extensions\\FireXPath@pierre.tholence.com.xpi","e":true,"v":"0.9.7.1.1-signed.1-signed","st":1489371543276},"jid0-OrDwsV63wgU4TFI6yptWagbfUE8@jetpack":{"d":"C:\\Users\\User\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\Senthil\\extensions\\jid0-OrDwsV63wgU4TFI6yptWagbfUE8@jetpack.xpi","e":true,"v":"2.0.1-signed","st":1507409623052}},"app-system-defaults":{"aushelper@mozilla.org":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\aushelper@mozilla.org.xpi","e":true,"v":"2.0","st":1489234292735},"e10srollout@mozilla.org":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","e":true,"v":"1.9","st":1489234292734},"firefox@getpocket.com":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","e":true,"v":"1.0.5","st":1489234292732},"webcompat@mozilla.org":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\webcompat@mozilla.org.xpi","e":true,"v":"1.0","st":1489234292727}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","e":true,"v":"52.0","st":1489234292736}}}
+1508775447350	addons.xpi	DEBUG	getModTime: Recursive scan of firebug@software.joehewitt.com
+1508775447351	addons.xpi	DEBUG	Changed add-on firebug@software.joehewitt.com in app-profile
+1508775447353	addons.xpi	DEBUG	getModTime: Recursive scan of FireXPath@pierre.tholence.com
+1508775447355	addons.xpi	DEBUG	Changed add-on FireXPath@pierre.tholence.com in app-profile
+1508775447356	addons.xpi	DEBUG	getModTime: Recursive scan of jid0-OrDwsV63wgU4TFI6yptWagbfUE8@jetpack
+1508775447357	addons.xpi	DEBUG	Changed add-on jid0-OrDwsV63wgU4TFI6yptWagbfUE8@jetpack in app-profile
+1508775447359	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1508775447359	addons.xpi	DEBUG	Changed add-on aushelper@mozilla.org in app-system-defaults
+1508775447360	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1508775447360	addons.xpi	DEBUG	Changed add-on e10srollout@mozilla.org in app-system-defaults
+1508775447361	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1508775447361	addons.xpi	DEBUG	Changed add-on firefox@getpocket.com in app-system-defaults
+1508775447362	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1508775447362	addons.xpi	DEBUG	Changed add-on webcompat@mozilla.org in app-system-defaults
+1508775447362	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1508775447364	addons.xpi	DEBUG	Changed add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1508775447364	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-profile":{"firebug@software.joehewitt.com":{"d":"C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.N8uHgioqphu4\\extensions\\firebug@software.joehewitt.com.xpi","e":true,"v":"2.0.17","st":1508775445870},"FireXPath@pierre.tholence.com":{"d":"C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.N8uHgioqphu4\\extensions\\FireXPath@pierre.tholence.com.xpi","e":true,"v":"0.9.7.1.1-signed.1-signed","st":1508775445870},"jid0-OrDwsV63wgU4TFI6yptWagbfUE8@jetpack":{"d":"C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.N8uHgioqphu4\\extensions\\jid0-OrDwsV63wgU4TFI6yptWagbfUE8@jetpack.xpi","e":true,"v":"2.0.1-signed","st":1508775445955}},"app-system-defaults":{"aushelper@mozilla.org":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\aushelper@mozilla.org.xpi","e":true,"v":"2.0","st":1489234292735},"e10srollout@mozilla.org":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","e":true,"v":"1.9","st":1489234292734},"firefox@getpocket.com":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","e":true,"v":"1.0.5","st":1489234292732},"webcompat@mozilla.org":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\webcompat@mozilla.org.xpi","e":true,"v":"1.0","st":1489234292727}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","e":true,"v":"52.0","st":1489234292736}}}
+1508775447393	addons.xpi-utils	DEBUG	Opening XPI database C:\Users\User\AppData\Local\Temp\rust_mozprofile.N8uHgioqphu4\extensions.json
+1508775447398	addons.xpi-utils	DEBUG	Successfully read XPI database
+1508775447402	addons.xpi-utils	DEBUG	Add-on FireXPath@pierre.tholence.com modified in app-profile
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1508775447429	addons.xpi	DEBUG	Add-on firebug@software.joehewitt.com blocks e10s rollout.
+1508775447429	DeferredSave.extensions.json	DEBUG	Save changes
+1508775447431	addons.xpi	DEBUG	Add-on firebug@software.joehewitt.com blocks e10s rollout.
+1508775447431	DeferredSave.extensions.json	DEBUG	Save changes
+1508775447431	addons.xpi-utils	DEBUG	Add-on firebug@software.joehewitt.com modified in app-profile
+1508775447437	DeferredSave.extensions.json	DEBUG	Starting timer
+1508775447476	DeferredSave.extensions.json	DEBUG	Starting write
+1508775447520	DeferredSave.extensions.json	DEBUG	Write succeeded
+1508775447520	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 19
+1508775447587	addons.xpi	DEBUG	Add-on jid0-OrDwsV63wgU4TFI6yptWagbfUE8@jetpack blocks e10s rollout.
+1508775447587	DeferredSave.extensions.json	DEBUG	Save changes
+1508775447588	addons.xpi	DEBUG	Add-on jid0-OrDwsV63wgU4TFI6yptWagbfUE8@jetpack blocks e10s rollout.
+1508775447589	DeferredSave.extensions.json	DEBUG	Save changes
+1508775447589	addons.xpi-utils	DEBUG	Add-on jid0-OrDwsV63wgU4TFI6yptWagbfUE8@jetpack modified in app-profile
+1508775447593	DeferredSave.extensions.json	DEBUG	Starting timer
+1508775447600	DeferredSave.extensions.json	DEBUG	Save changes
+1508775447601	DeferredSave.extensions.json	DEBUG	Save changes
+1508775447603	addons.manager	DEBUG	Registering startup change 'changed' for FireXPath@pierre.tholence.com
+1508775447603	addons.xpi-utils	DEBUG	Make addon app-profile:FireXPath@pierre.tholence.com visible
+1508775447603	DeferredSave.extensions.json	DEBUG	Save changes
+1508775447604	addons.manager	DEBUG	Registering startup change 'changed' for firebug@software.joehewitt.com
+1508775447612	addons.xpi	DEBUG	Loading bootstrap scope from C:\Users\User\AppData\Roaming\Mozilla\Firefox\Profiles\Senthil\extensions\firebug@software.joehewitt.com.xpi
+1508775447624	addons.xpi	DEBUG	Calling bootstrap method uninstall on firebug@software.joehewitt.com version 2.0.17
+1508775447625	addons.xpi	DEBUG	Loading bootstrap scope from C:\Users\User\AppData\Local\Temp\rust_mozprofile.N8uHgioqphu4\extensions\firebug@software.joehewitt.com.xpi
+1508775447628	addons.xpi	DEBUG	Calling bootstrap method install on firebug@software.joehewitt.com version 2.0.17
+1508775447628	addons.xpi-utils	DEBUG	Make addon app-profile:firebug@software.joehewitt.com visible
+1508775447629	addons.xpi	DEBUG	Add-on firebug@software.joehewitt.com blocks e10s rollout.
+1508775447629	DeferredSave.extensions.json	DEBUG	Save changes
+1508775447630	addons.manager	DEBUG	Registering startup change 'changed' for jid0-OrDwsV63wgU4TFI6yptWagbfUE8@jetpack
+1508775447630	addons.xpi	DEBUG	Loading bootstrap scope from C:\Users\User\AppData\Roaming\Mozilla\Firefox\Profiles\Senthil\extensions\jid0-OrDwsV63wgU4TFI6yptWagbfUE8@jetpack.xpi
+1508775447635	addons.xpi	DEBUG	Calling bootstrap method uninstall on jid0-OrDwsV63wgU4TFI6yptWagbfUE8@jetpack version 2.0.1-signed
+1508775447635	addons.xpi	DEBUG	Loading bootstrap scope from C:\Users\User\AppData\Local\Temp\rust_mozprofile.N8uHgioqphu4\extensions\jid0-OrDwsV63wgU4TFI6yptWagbfUE8@jetpack.xpi
+1508775447641	addons.xpi	DEBUG	Calling bootstrap method install on jid0-OrDwsV63wgU4TFI6yptWagbfUE8@jetpack version 2.0.1-signed
+1508775447641	addons.xpi-utils	DEBUG	Make addon app-profile:jid0-OrDwsV63wgU4TFI6yptWagbfUE8@jetpack visible
+1508775447642	addons.xpi	DEBUG	Add-on firebug@software.joehewitt.com blocks e10s rollout.
+1508775447642	DeferredSave.extensions.json	DEBUG	Save changes
+1508775447642	addons.xpi-utils	DEBUG	Make addon app-system-defaults:e10srollout@mozilla.org visible
+1508775447644	addons.xpi	DEBUG	Add-on firebug@software.joehewitt.com blocks e10s rollout.
+1508775447644	DeferredSave.extensions.json	DEBUG	Save changes
+1508775447644	addons.xpi-utils	DEBUG	Make addon app-system-defaults:firefox@getpocket.com visible
+1508775447645	addons.xpi	DEBUG	Add-on firebug@software.joehewitt.com blocks e10s rollout.
+1508775447645	DeferredSave.extensions.json	DEBUG	Save changes
+1508775447645	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat@mozilla.org visible
+1508775447646	addons.xpi	DEBUG	Add-on firebug@software.joehewitt.com blocks e10s rollout.
+1508775447646	DeferredSave.extensions.json	DEBUG	Save changes
+1508775447646	addons.xpi-utils	DEBUG	Make addon app-system-defaults:aushelper@mozilla.org visible
+1508775447647	addons.xpi	DEBUG	Add-on firebug@software.joehewitt.com blocks e10s rollout.
+1508775447647	DeferredSave.extensions.json	DEBUG	Save changes
+1508775447647	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+1508775447647	addons.xpi	DEBUG	Add-on firebug@software.joehewitt.com blocks e10s rollout.
+1508775447647	DeferredSave.extensions.json	DEBUG	Save changes
+1508775447648	addons.xpi	DEBUG	Updating XPIState for {"id":"FireXPath@pierre.tholence.com","syncGUID":"{d02e683e-26b1-4114-aeef-f65b3d6fcd07}","location":"app-profile","version":"0.9.7.1.1-signed.1-signed","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":"chrome://firepath/content/FirePath.png","icon64URL":null,"defaultLocale":{"name":"FirePath","description":"FirePath is a Firebug extension that adds a development tool to edit, inspect and generate XPath 1.0 expressions, CSS 3 selectors and JQuery selectors.","creator":"Pierre Tholence","homepageURL":null,"contributors":["David Rees"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.N8uHgioqphu4\\extensions\\FireXPath@pierre.tholence.com.xpi","installDate":1489371543276,"updateDate":1508775445870,"applyBackgroundUpdates":1,"bootstrap":false,"skinnable":false,"size":168435,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"4.0","maxVersion":"34.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1508775447648	addons.xpi	DEBUG	Updating XPIState for {"id":"firebug@software.joehewitt.com","syncGUID":"{255efe99-a757-475a-a446-6c9b4cda1c9f}","location":"app-profile","version":"2.0.17","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":"chrome://firebug/skin/firebugBig.png","icon64URL":null,"defaultLocale":{"name":"Firebug","description":"Web Development Evolved. Firebug is free and open source software distributed under the BSD License.","creator":"Joe Hewitt","homepageURL":"http://www.getfirebug.com/","translators":["Leszek(teo)Zyczkowski (pl-PL)","markh (nl)","peter3 (sv-SE)","AlleyKat (da-DK)","Hector Zhao, lovelywcm (zh-CN)","Lukas Kucharczyk, Michal Kec (cs-CZ)","Team erweiterungen.de, ReinekeFux, Benedikt Langens, Sebastian Zartner (de-DE)","l0stintranslation, gonzalopirobutirro, Luigi Grilli (it-IT)","alexxed (ro-RO)","Nicolas Martin, Franck Marcia (fr-FR)","gLes (hu-HU)","Xavi Ivars - Softcatala (ca)","gezmen (tr-TR)","eternoendless (es-AR)","Dark Preacher (ru)","Tiago Oliveira, Diego de Carvalho Zimmermann, Alexandre Rapaki (pt-BR)","Juan Botias, Alvaro G. Vicario (es-ES)","Andriy Zhouck (uk-UA)","Hisateru Tanaka, k2jp (ja-JP)","Mohsen Shadroo (fa-IR)","Eduard Babayan (hy-AM)","Helder Magalhaes (pt-PT)","Tomaz Macus (sl-SI)","Stoyan Stefanov, Alexander Shopov (bg)","Kristjan Bjarni Guomundsson (is-IS)","NGUYEN Manh Hung (vi-VN)","Bwah (hr-HR)","Sonickydon (el)","David Gonzales (es)","DakSrbija (sr)","bootleq (zh-TW)","Asier Iturralde Sarasola, Julen Irazoki Oteiza (eu)"],"contributors":["John J. Barton (IBM Almaden)","Jan Odvarko (Mozilla Corp.)","Max Stepanov (Aptana Inc.)","Rob Campbell (Mozilla Corp.)","Hans Hillen (Paciello Group, Mozilla)","Curtis Bartley (Mozilla Corp.)","Mike Collins (IBM Almaden)","Kevin Decker","Mike Ratcliffe (Mozilla Corp.)","Hernan Rodriguez Colmeiro","Austin Andrews","Christoph Dorn","Steven Roussey (Illuminations for Developers)","Sebastian Zartner","Harutyun Amirjanyan","Simon Lindholm","Stampolidis Anastasios","Joe Walker (Mozilla Corp.)","Vladimir Zhuravlev","Farshid Beheshti","Leon Sorokin","Florent Fayolle","Hector Zhao","Bharath Thiruveedula","Nathan Mische","Belakhdar Abdeldjalil","Jakob Kaltenbrunner"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.N8uHgioqphu4\\extensions\\firebug@software.joehewitt.com.xpi","installDate":1489456354153,"updateDate":1508775445870,"applyBackgroundUpdates":"0","bootstrap":true,"skinnable":false,"size":9681821,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"toolkit@mozilla.org","minVersion":"30.0a1","maxVersion":"49.0"},{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"30.0a1","maxVersion":"49.0"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1508775447651	addons.xpi	DEBUG	Updating XPIState for {"id":"jid0-OrDwsV63wgU4TFI6yptWagbfUE8@jetpack","syncGUID":"{b4a18d84-f434-47fe-827c-1dacaa72b38d}","location":"app-profile","version":"2.0.1-signed","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":"2","aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"WebDriver Element Locator","description":"This addon is designed to support and speed up the creation of WebDriver scripts by easing the location of web elements.","creator":"Andrew Fowler","homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.N8uHgioqphu4\\extensions\\jid0-OrDwsV63wgU4TFI6yptWagbfUE8@jetpack.xpi","installDate":1507409623052,"updateDate":1508775445955,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":49912,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"26.0","maxVersion":"30.0"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":1,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1508775447651	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"T76ys_DQg5aP","location":"app-system-defaults","version":"1.9","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","installDate":1476903776000,"updateDate":1489234292734,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":7181,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"52.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1508775447651	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"TvcYA-HVYw0v","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","installDate":1476903776000,"updateDate":1489234292732,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":920279,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"52.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1508775447651	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"f8b22d5GbWJb","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\webcompat@mozilla.org.xpi","installDate":1476903776000,"updateDate":1489234292727,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":1454,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"52.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1508775447665	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{31f77ee2-9560-440d-a0b0-b25c41a6bbf3}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\aushelper@mozilla.org.xpi","installDate":1489234180350,"updateDate":1489234292735,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":8486,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"52.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1508775447665	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"N1K-PbKAM7fb","location":"app-global","version":"52.0","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{"32":"icon.png","48":"icon.png"},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1476903776000,"updateDate":1489234292736,"applyBackgroundUpdates":1,"skinnable":true,"size":19581,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"52.0"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false}
+1508775447666	addons.xpi	DEBUG	Add-on firebug@software.joehewitt.com blocks e10s rollout.
+1508775447667	DeferredSave.extensions.json	DEBUG	Save changes
+1508775447667	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1508775447668	addons.xpi-utils	DEBUG	Updating add-on states
+1508775447672	addons.xpi-utils	DEBUG	Writing add-ons list
+1508775447677	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1508775447678	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1508775447683	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 2.0
+1508775447684	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1508775447685	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1508775447689	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.9
+1508775447691	addons.xpi	DEBUG	Registering manifest for C:\Users\User\AppData\Local\Temp\rust_mozprofile.N8uHgioqphu4\extensions\firebug@software.joehewitt.com.xpi
+1508775447693	addons.xpi	DEBUG	Calling bootstrap method startup on firebug@software.joehewitt.com version 2.0.17
+1508775447706	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1508775447707	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1508775447712	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1508775447713	addons.xpi	DEBUG	Registering manifest for C:\Users\User\AppData\Local\Temp\rust_mozprofile.N8uHgioqphu4\extensions\jid0-OrDwsV63wgU4TFI6yptWagbfUE8@jetpack.xpi
+1508775447714	addons.xpi	DEBUG	Calling bootstrap method startup on jid0-OrDwsV63wgU4TFI6yptWagbfUE8@jetpack version 2.0.1-signed
+1508775447769	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1508775447770	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1508775447772	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.0
+1508775447774	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1508775447774	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1508775447774	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1508775447774	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1508775447775	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1508775447775	addons.manager	DEBUG	Starting provider: GMPProvider
+1508775447789	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1508775447789	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1508775447789	addons.manager	DEBUG	Starting provider: PluginProvider
+1508775447790	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1508775447790	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1508775447790	addons.manager	DEBUG	Completed startup sequence
+1508775448066	Marionette	INFO	Listening on port 53347
+1508775448185	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1508775448185	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1508775448186	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1508775448222	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1508775448223	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1508775448223	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1508775448227	DeferredSave.extensions.json	DEBUG	Starting write
+1508775448319	DeferredSave.extensions.json	DEBUG	Write succeeded
+Oct 23, 2017 9:47:29 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1508775449703	Marionette	WARN	Using deprecated data structure for setting timeouts
+1508775450439	Marionette	WARN	Using deprecated data structure for setting timeouts
+]]></system-err>
+  </testcase>
+  <testcase name="testUsingExcel" classname="portalvalidation.ProfileLink" time="0">
+    <skipped message="Error loading page, timed out (onDOMContentLoaded)&#10;Build info: version: &apos;3.0.1&apos;, revision: &apos;1969d75&apos;, time: &apos;2016-10-18 09:49:13 -0700&apos;&#10;System info: host: &apos;DESKTOP-84BCDDP&apos;, ip: &apos;192.168.56.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_121&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities [{moz:profile=C:\Users\User\AppData\Local\Temp\rust_mozprofile.N8uHgioqphu4, rotatable=false, timeouts={implicit=0, page load=300000, script=30000}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=52.0, platformVersion=10.0, moz:processID=952, browserName=firefox, platformName=windows_nt}]&#10;Session ID: a2c32352-146c-46de-bf3a-56cbad3fadd2"/>
+  </testcase>
+  <testcase name="testUsingExcel" classname="portalvalidation.ProfileLink" time="0">
+    <skipped message="Error loading page, timed out (onDOMContentLoaded)&#10;Build info: version: &apos;3.0.1&apos;, revision: &apos;1969d75&apos;, time: &apos;2016-10-18 09:49:13 -0700&apos;&#10;System info: host: &apos;DESKTOP-84BCDDP&apos;, ip: &apos;192.168.56.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_121&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities [{moz:profile=C:\Users\User\AppData\Local\Temp\rust_mozprofile.N8uHgioqphu4, rotatable=false, timeouts={implicit=0, page load=300000, script=30000}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=52.0, platformVersion=10.0, moz:processID=952, browserName=firefox, platformName=windows_nt}]&#10;Session ID: a2c32352-146c-46de-bf3a-56cbad3fadd2"/>
+  </testcase>
+  <testcase name="shutDownSelenium" classname="portalvalidation.ProfileLink" time="0">
+    <skipped/>
+  </testcase>
+</testsuite>

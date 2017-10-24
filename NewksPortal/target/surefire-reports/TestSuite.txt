@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 3, Time elapsed: 77.871 s <<< FAILURE! - in TestSuite
+setUp(portalvalidation.ProfileLink)  Time elapsed: 77.333 s  <<< FAILURE!
+org.openqa.selenium.TimeoutException: 
+Error loading page, timed out (onDOMContentLoaded)
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'DESKTOP-84BCDDP', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\User\AppData\Local\Temp\rust_mozprofile.N8uHgioqphu4, rotatable=false, timeouts={implicit=0, page load=300000, script=30000}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=52.0, platformVersion=10.0, moz:processID=952, browserName=firefox, platformName=windows_nt}]
+Session ID: a2c32352-146c-46de-bf3a-56cbad3fadd2
+	at portalvalidation.ProfileLink.setUp(ProfileLink.java:52)
+

@@ -1,0 +1,218 @@
+12:22:47.174 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 4 TC_01
+12:23:13.671 INFO  portalvalidation.NewtRegistration -Email and Conf email mismatch on tab :Senthil Kumar 8 TC_02
+12:23:34.067 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 8 TC_02
+12:24:00.265 INFO  portalvalidation.NewtRegistration -Email and Conf email mismatch on tab :Senthil Kumar 7 TC_03
+12:24:20.490 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 7 TC_03
+12:24:54.056 INFO  portalvalidation.NewtRegistration -email valid and confrim email is empty on Submit: Senthil Kumar 9 TC_04
+12:25:27.241 INFO  portalvalidation.NewtRegistration -fname is less than 2 chars on Submit: S TC_05
+12:26:01.191 INFO  portalvalidation.NewtRegistration -fname is empty on Submit:  TC_06
+12:26:34.421 INFO  portalvalidation.NewtRegistration -Last name  is empty on Submit: Senthil Kumar TC_07
+12:27:07.855 INFO  portalvalidation.NewtRegistration -email formatt error on Submit: Senthil Kumar 6 TC_08
+12:27:41.318 INFO  portalvalidation.NewtRegistration -Password and conf. Password are empty on Submit: Senthil Kumar 30 TC_09
+12:28:07.752 INFO  portalvalidation.NewtRegistration -Password Empty on TAB: Senthil Kumar 31 TC_10
+12:28:35.368 INFO  portalvalidation.NewtRegistration -Password Length Error on TAB: Senthil Kumar 32 TC_11
+12:28:59.337 INFO  portalvalidation.NewtRegistration -Password and Conf Password mismatch on TAB: Senthil Kumar 33 TC_12
+12:29:26.136 INFO  portalvalidation.NewtRegistration -Password valid and confirm Password not empty on Submit: Senthil Kumar 34 TC_13
+12:29:59.216 INFO  portalvalidation.NewtRegistration -Mobile number is empty: Senthil Kumar 7 TC_14
+12:30:36.465 INFO  portalvalidation.NewtRegistration -Mobile number is not valid on Submit: Senthil Kumar 8 TC_15
+12:31:01.456 INFO  portalvalidation.NewtRegistration -Birthdate is empty on Submit: Senthil Kumar 9 TC_16
+12:31:40.431 INFO  portalvalidation.NewtRegistration -Zip length mismatch on TAB: Senthil Kumar 124 TC_17
+12:32:15.355 INFO  portalvalidation.NewtRegistration -Zip length mismatch on TAB: Senthil Kumar 125 TC_18
+12:32:50.217 INFO  portalvalidation.NewtRegistration -Zip is empty on TAB: Senthil Kumar 171 TC_19
+12:33:21.055 INFO  portalvalidation.NewtRegistration -Zip valid but favourite location not selected: Senthil Kumar 175 TC_20
+12:34:06.108 INFO  portalvalidation.NewtRegistration -Agreement not selected on Submit: Senthil3457 TC_21
+12:34:45.292 INFO  portalvalidation.NewtRegistration -Email Already Exists on Submit: Senthil Kumar 501 TC_22
+12:35:30.376 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 511 TC_23
+12:36:15.507 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 512 TC_24
+12:37:00.833 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 513 TC_25
+12:37:45.898 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 514 TC_26
+12:38:31.105 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 515 TC_27
+14:24:09.082 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 4 TC_01
+14:24:36.061 INFO  portalvalidation.NewtRegistration -Email and Conf email mismatch on tab :Senthil Kumar 8 TC_02
+14:24:56.308 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 8 TC_02
+14:25:22.178 INFO  portalvalidation.NewtRegistration -Email and Conf email mismatch on tab :Senthil Kumar 7 TC_03
+14:25:53.602 INFO  portalvalidation.NewtRegistration -email valid and confrim email is empty on Submit: Senthil Kumar 9 TC_04
+14:26:27.097 INFO  portalvalidation.NewtRegistration -fname is less than 2 chars on Submit: S TC_05
+14:27:00.778 INFO  portalvalidation.NewtRegistration -fname is empty on Submit:  TC_06
+14:27:34.690 INFO  portalvalidation.NewtRegistration -Last name  is empty on Submit: Senthil Kumar TC_07
+14:28:08.359 INFO  portalvalidation.NewtRegistration -email formatt error on Submit: Senthil Kumar 6 TC_08
+14:28:42.590 INFO  portalvalidation.NewtRegistration -Password and conf. Password are empty on Submit: Senthil Kumar 30 TC_09
+14:29:09.495 INFO  portalvalidation.NewtRegistration -Password Empty on TAB: Senthil Kumar 31 TC_10
+14:29:37.650 INFO  portalvalidation.NewtRegistration -Password Length Error on TAB: Senthil Kumar 32 TC_11
+14:30:02.063 INFO  portalvalidation.NewtRegistration -Password and Conf Password mismatch on TAB: Senthil Kumar 33 TC_12
+14:30:29.308 INFO  portalvalidation.NewtRegistration -Password valid and confirm Password not empty on Submit: Senthil Kumar 34 TC_13
+14:31:03.168 INFO  portalvalidation.NewtRegistration -Mobile number is empty: Senthil Kumar 7 TC_14
+14:31:40.980 INFO  portalvalidation.NewtRegistration -Mobile number is not valid on Submit: Senthil Kumar 8 TC_15
+14:32:07.165 INFO  portalvalidation.NewtRegistration -Birthdate is empty on Submit: Senthil Kumar 9 TC_16
+14:32:46.651 INFO  portalvalidation.NewtRegistration -Zip length mismatch on TAB: Senthil Kumar 124 TC_17
+14:33:21.766 INFO  portalvalidation.NewtRegistration -Zip length mismatch on TAB: Senthil Kumar 125 TC_18
+14:33:56.474 INFO  portalvalidation.NewtRegistration -Zip is empty on TAB: Senthil Kumar 171 TC_19
+14:34:27.785 INFO  portalvalidation.NewtRegistration -Zip valid but favourite location not selected: Senthil Kumar 175 TC_20
+14:35:13.455 INFO  portalvalidation.NewtRegistration -Agreement not selected on Submit: Senthil3457 TC_21
+14:35:53.864 INFO  portalvalidation.NewtRegistration -Email Already Exists on Submit: Senthil Kumar 501 TC_22
+14:36:39.840 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 511 TC_23
+14:37:26.908 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 512 TC_24
+14:38:13.082 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 513 TC_25
+14:38:59.123 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 514 TC_26
+14:39:45.520 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 515 TC_27
+15:03:37.043 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 4 TC_01
+15:04:05.362 INFO  portalvalidation.NewtRegistration -Email and Conf email mismatch on tab :Senthil Kumar 8 TC_02
+15:04:26.590 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 8 TC_02
+15:04:53.772 INFO  portalvalidation.NewtRegistration -Email and Conf email mismatch on tab :Senthil Kumar 7 TC_03
+15:05:14.153 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 7 TC_03
+15:05:48.948 INFO  portalvalidation.NewtRegistration -email valid and confrim email is empty on Submit: Senthil Kumar 9 TC_04
+15:06:24.605 INFO  portalvalidation.NewtRegistration -fname is less than 2 chars on Submit: S TC_05
+15:06:59.758 INFO  portalvalidation.NewtRegistration -fname is empty on Submit:  TC_06
+15:07:35.367 INFO  portalvalidation.NewtRegistration -Last name  is empty on Submit: Senthil Kumar TC_07
+15:08:11.187 INFO  portalvalidation.NewtRegistration -email formatt error on Submit: Senthil Kumar 6 TC_08
+15:08:45.890 INFO  portalvalidation.NewtRegistration -Password and conf. Password are empty on Submit: Senthil Kumar 30 TC_09
+15:09:13.097 INFO  portalvalidation.NewtRegistration -Password Empty on TAB: Senthil Kumar 31 TC_10
+15:09:31.444 INFO  portalvalidation.NewtRegistration -Password and conf. Password are empty on Submit: Senthil Kumar 31 TC_10
+15:09:59.317 INFO  portalvalidation.NewtRegistration -Password Length Error on TAB: Senthil Kumar 32 TC_11
+15:10:19.820 INFO  portalvalidation.NewtRegistration -Password and conf. Password are empty on Submit: Senthil Kumar 32 TC_11
+15:10:48.101 INFO  portalvalidation.NewtRegistration -Password and Conf Password mismatch on TAB: Senthil Kumar 33 TC_12
+15:11:00.644 INFO  portalvalidation.NewtRegistration -Password and conf. Password are empty on Submit: Senthil Kumar 33 TC_12
+15:11:36.077 INFO  portalvalidation.NewtRegistration -Password valid and confirm Password not empty on Submit: Senthil Kumar 34 TC_13
+15:39:34.474 INFO  portalvalidation.NewtRegistration -Mobile number is empty: Senthil Kumar 7 TC_14
+15:40:14.779 INFO  portalvalidation.NewtRegistration -Mobile number is not valid on Submit: Senthil Kumar 8 TC_15
+15:40:42.732 INFO  portalvalidation.NewtRegistration -Birthdate is empty on Submit: Senthil Kumar 9 TC_16
+15:41:23.338 INFO  portalvalidation.NewtRegistration -Zip length mismatch on TAB: Senthil Kumar 124 TC_17
+15:41:59.157 INFO  portalvalidation.NewtRegistration -Zip length mismatch on TAB: Senthil Kumar 125 TC_18
+15:42:35.841 INFO  portalvalidation.NewtRegistration -Zip is empty on TAB: Senthil Kumar 171 TC_19
+15:42:43.195 INFO  portalvalidation.NewtRegistration -Zip and location are empty on Submit: Senthil Kumar 171 TC_19
+15:43:25.643 INFO  portalvalidation.NewtRegistration -Zip valid but favourite location not selected: Senthil Kumar 175 TC_20
+15:44:13.716 INFO  portalvalidation.NewtRegistration -Agreement not selected on Submit: Senthil3457 TC_21
+15:44:56.292 INFO  portalvalidation.NewtRegistration -Email Already Exists on Submit: Senthil Kumar 501 TC_22
+15:45:45.117 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 511 TC_23
+15:46:33.070 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 512 TC_24
+15:47:21.390 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 513 TC_25
+15:47:55.048 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 514 TC_26
+15:48:43.578 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 515 TC_27
+16:01:56.296 INFO  portalvalidation.NewtRegistration -Mobile number is empty: Senthil Kumar 7 TC_14
+16:02:37.829 INFO  portalvalidation.NewtRegistration -Mobile number is not valid on Submit: Senthil Kumar 8 TC_15
+16:03:06.928 INFO  portalvalidation.NewtRegistration -Birthdate is empty on Submit: Senthil Kumar 9 TC_16
+16:03:49.284 INFO  portalvalidation.NewtRegistration -Zip length mismatch on TAB: Senthil Kumar 124 TC_17
+16:04:00.989 INFO  portalvalidation.NewtRegistration -Zip length error and favourite location not selected on Submit: Senthil Kumar 124 TC_17
+16:04:43.344 INFO  portalvalidation.NewtRegistration -Zip length mismatch on TAB: Senthil Kumar 125 TC_18
+16:04:54.931 INFO  portalvalidation.NewtRegistration -Zip length error and favourite location not selected on Submit: Senthil Kumar 125 TC_18
+16:05:37.899 INFO  portalvalidation.NewtRegistration -Zip is empty on TAB: Senthil Kumar 171 TC_19
+16:05:45.537 INFO  portalvalidation.NewtRegistration -Zip and location are empty on Submit: Senthil Kumar 171 TC_19
+16:06:28.301 INFO  portalvalidation.NewtRegistration -Zip valid but favourite location not selected: Senthil Kumar 175 TC_20
+16:07:17.986 INFO  portalvalidation.NewtRegistration -Agreement not selected on Submit: Senthil3457 TC_21
+16:08:01.062 INFO  portalvalidation.NewtRegistration -Email Already Exists on Submit: Senthil Kumar 501 TC_22
+16:08:49.553 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 511 TC_23
+16:09:38.595 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 512 TC_24
+16:10:27.839 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 513 TC_25
+16:11:16.709 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 514 TC_26
+16:12:06.047 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 515 TC_27
+16:22:00.187 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 4 TC_01
+16:22:30.025 INFO  portalvalidation.NewtRegistration -Email and Conf email mismatch on tab :Senthil Kumar 8 TC_02
+16:22:52.048 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 8 TC_02
+16:23:19.908 INFO  portalvalidation.NewtRegistration -Email and Conf email mismatch on tab :Senthil Kumar 7 TC_03
+16:23:42.079 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 7 TC_03
+16:24:19.951 INFO  portalvalidation.NewtRegistration -email valid and confrim email is empty on Submit: Senthil Kumar 9 TC_04
+16:24:57.203 INFO  portalvalidation.NewtRegistration -fname is less than 2 chars on Submit: S TC_05
+16:25:34.676 INFO  portalvalidation.NewtRegistration -fname is empty on Submit:  TC_06
+16:26:13.153 INFO  portalvalidation.NewtRegistration -Last name  is empty on Submit: Senthil Kumar TC_07
+16:26:50.888 INFO  portalvalidation.NewtRegistration -email formatt error on Submit: Senthil Kumar 6 TC_08
+16:27:27.270 INFO  portalvalidation.NewtRegistration -Password and conf. Password are empty on Submit: Senthil Kumar 30 TC_09
+16:27:58.348 INFO  portalvalidation.NewtRegistration -Password Empty on TAB: Senthil Kumar 31 TC_10
+16:28:29.475 INFO  portalvalidation.NewtRegistration -Password Length Error on TAB: Senthil Kumar 32 TC_11
+16:28:55.600 INFO  portalvalidation.NewtRegistration -Password and Conf Password mismatch on TAB: Senthil Kumar 33 TC_12
+16:29:27.156 INFO  portalvalidation.NewtRegistration -Password valid and confirm Password not empty on Submit: Senthil Kumar 34 TC_13
+16:30:04.709 INFO  portalvalidation.NewtRegistration -Mobile number is empty: Senthil Kumar 7 TC_14
+16:30:45.447 INFO  portalvalidation.NewtRegistration -Mobile number is not valid on Submit: Senthil Kumar 8 TC_15
+16:31:14.347 INFO  portalvalidation.NewtRegistration -Birthdate is empty on Submit: Senthil Kumar 9 TC_16
+16:31:57.980 INFO  portalvalidation.NewtRegistration -Zip length mismatch on TAB: Senthil Kumar 124 TC_17
+16:32:36.982 INFO  portalvalidation.NewtRegistration -Zip length mismatch on TAB: Senthil Kumar 125 TC_18
+16:33:14.270 INFO  portalvalidation.NewtRegistration -Zip is empty on TAB: Senthil Kumar 171 TC_19
+16:33:48.569 INFO  portalvalidation.NewtRegistration -Zip valid but favourite location not selected: Senthil Kumar 175 TC_20
+16:34:37.970 INFO  portalvalidation.NewtRegistration -Agreement not selected on Submit: Senthil3457 TC_21
+16:35:22.175 INFO  portalvalidation.NewtRegistration -Email Already Exists on Submit: Senthil Kumar 501 TC_22
+16:36:12.823 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 511 TC_23
+16:37:02.663 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 512 TC_24
+16:37:52.752 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 513 TC_25
+16:38:43.088 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 514 TC_26
+16:39:32.867 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 515 TC_27
+17:21:28.322 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 4 TC_01
+17:21:58.411 INFO  portalvalidation.NewtRegistration -Email and Conf email mismatch on tab :Senthil Kumar 8 TC_02
+17:22:25.248 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 8 TC_02
+17:22:54.409 INFO  portalvalidation.NewtRegistration -Email and Conf email mismatch on tab :Senthil Kumar 7 TC_03
+17:23:16.787 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 7 TC_03
+17:24:20.533 INFO  portalvalidation.NewtRegistration -fname is less than 2 chars on Submit: S TC_05
+17:24:58.361 INFO  portalvalidation.NewtRegistration -fname is empty on Submit:  TC_06
+17:25:37.069 INFO  portalvalidation.NewtRegistration -Last name  is empty on Submit: Senthil Kumar TC_07
+17:26:40.148 INFO  portalvalidation.NewtRegistration -Password and conf. Password are empty on Submit: Senthil Kumar 30 TC_09
+17:27:10.249 INFO  portalvalidation.NewtRegistration -Password Empty on TAB: Senthil Kumar 31 TC_10
+17:27:30.187 INFO  portalvalidation.NewtRegistration -Password and conf. Password are empty on Submit: Senthil Kumar 31 TC_10
+17:27:59.908 INFO  portalvalidation.NewtRegistration -Password Length Error on TAB: Senthil Kumar 32 TC_11
+17:28:21.483 INFO  portalvalidation.NewtRegistration -Password and conf. Password are empty on Submit: Senthil Kumar 32 TC_11
+17:28:52.520 INFO  portalvalidation.NewtRegistration -Password and Conf Password mismatch on TAB: Senthil Kumar 33 TC_12
+17:29:06.214 INFO  portalvalidation.NewtRegistration -Password and conf. Password are empty on Submit: Senthil Kumar 33 TC_12
+17:29:44.486 INFO  portalvalidation.NewtRegistration -Password valid and confirm Password empty on Submit: Senthil Kumar 34 TC_13
+17:30:23.163 INFO  portalvalidation.NewtRegistration -Mobile number is empty: Senthil Kumar 7 TC_14
+17:31:05.835 INFO  portalvalidation.NewtRegistration -Mobile number is not valid on Submit: Senthil Kumar 8 TC_15
+17:31:36.908 INFO  portalvalidation.NewtRegistration -Birthdate is empty on Submit: Senthil Kumar 9 TC_16
+17:32:20.268 INFO  portalvalidation.NewtRegistration -Zip length mismatch on TAB: Senthil Kumar 124 TC_17
+17:32:32.084 INFO  portalvalidation.NewtRegistration -Zip length error and favourite location not selected on Submit: Senthil Kumar 124 TC_17
+17:33:15.870 INFO  portalvalidation.NewtRegistration -Zip length mismatch on TAB: Senthil Kumar 125 TC_18
+17:33:27.717 INFO  portalvalidation.NewtRegistration -Zip length error and favourite location not selected on Submit: Senthil Kumar 125 TC_18
+17:34:12.344 INFO  portalvalidation.NewtRegistration -Zip is empty on TAB: Senthil Kumar 171 TC_19
+17:34:48.661 INFO  portalvalidation.NewtRegistration -Zip valid but favourite location not selected: Senthil Kumar 175 TC_20
+17:35:39.332 INFO  portalvalidation.NewtRegistration -Agreement not selected on Submit: Senthil3457 TC_21
+17:36:24.615 INFO  portalvalidation.NewtRegistration -Email Already Exists on Submit: Senthil Kumar 501 TC_22
+17:37:15.183 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 511 TC_23
+17:38:05.959 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 512 TC_24
+17:38:56.821 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 513 TC_25
+17:39:47.712 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 514 TC_26
+17:40:38.811 INFO  portalvalidation.NewtRegistration -Phone Number already exists on Submit: Senthil Kumar 515 TC_27
+18:03:59.327 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 4 TC_01
+18:04:13.636 INFO  portalvalidation.NewtRegistration -Email and Conf email mismatch on tab :Senthil Kumar 8 TC_02
+18:04:27.997 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 8 TC_02
+18:04:42.051 INFO  portalvalidation.NewtRegistration -Email and Conf email mismatch on tab :Senthil Kumar 7 TC_03
+18:04:56.489 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 7 TC_03
+18:05:38.683 INFO  portalvalidation.NewtRegistration -fname is less than 2 chars on Submit: S TC_05
+18:05:59.846 INFO  portalvalidation.NewtRegistration -fname is empty on Submit:  TC_06
+18:06:21.121 INFO  portalvalidation.NewtRegistration -Last name  is empty on Submit: Senthil Kumar TC_07
+18:07:03.383 INFO  portalvalidation.NewtRegistration -Password and conf. Password are empty on Submit: Senthil Kumar 30 TC_09
+18:07:17.795 INFO  portalvalidation.NewtRegistration -Password Empty on TAB: Senthil Kumar 31 TC_10
+18:07:25.710 INFO  portalvalidation.NewtRegistration -Password and conf. Password are empty on Submit: Senthil Kumar 31 TC_10
+18:07:40.016 INFO  portalvalidation.NewtRegistration -Password Length Error on TAB: Senthil Kumar 32 TC_11
+18:07:53.690 INFO  portalvalidation.NewtRegistration -Password and conf. Password are empty on Submit: Senthil Kumar 32 TC_11
+18:08:08.045 INFO  portalvalidation.NewtRegistration -Password and Conf Password mismatch on TAB: Senthil Kumar 33 TC_12
+18:08:16.386 INFO  portalvalidation.NewtRegistration -Password and conf. Password are empty on Submit: Senthil Kumar 33 TC_12
+18:08:37.748 INFO  portalvalidation.NewtRegistration -Password valid and confirm Password empty on Submit: Senthil Kumar 34 TC_13
+18:08:59.068 INFO  portalvalidation.NewtRegistration -Mobile number is empty: Senthil Kumar 7 TC_14
+18:09:28.959 INFO  portalvalidation.NewtRegistration -Mobile number is not valid on Submit: Senthil Kumar 8 TC_15
+18:09:50.327 INFO  portalvalidation.NewtRegistration -Birthdate is empty on Submit: Senthil Kumar 9 TC_16
+18:10:21.387 INFO  portalvalidation.NewtRegistration -Zip length mismatch on TAB: Senthil Kumar 125 TC_18
+18:10:22.312 INFO  portalvalidation.NewtRegistration -Zip length error and favourite location not selected on Submit: Senthil Kumar 125 TC_18
+21:18:11.993 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 4 TC_01
+21:18:27.149 INFO  portalvalidation.NewtRegistration -Email and Conf email mismatch on tab :Senthil Kumar 8 TC_02
+21:18:41.434 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 8 TC_02
+21:18:55.753 INFO  portalvalidation.NewtRegistration -Email and Conf email mismatch on tab :Senthil Kumar 7 TC_03
+21:19:09.907 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 7 TC_03
+21:19:53.456 INFO  portalvalidation.NewtRegistration -fname is less than 2 chars on Submit: S TC_05
+21:20:15.308 INFO  portalvalidation.NewtRegistration -fname is empty on Submit:  TC_06
+21:20:37.174 INFO  portalvalidation.NewtRegistration -Last name  is empty on Submit: Senthil Kumar TC_07
+21:21:20.189 INFO  portalvalidation.NewtRegistration -Password and conf. Password are empty on Submit: Senthil Kumar 30 TC_09
+21:21:35.381 INFO  portalvalidation.NewtRegistration -Password Empty on TAB: Senthil Kumar 31 TC_10
+21:21:43.232 INFO  portalvalidation.NewtRegistration -Password and conf. Password are empty on Submit: Senthil Kumar 31 TC_10
+21:21:58.048 INFO  portalvalidation.NewtRegistration -Password Length Error on TAB: Senthil Kumar 32 TC_11
+21:22:11.893 INFO  portalvalidation.NewtRegistration -Password and conf. Password are empty on Submit: Senthil Kumar 32 TC_11
+21:22:27.452 INFO  portalvalidation.NewtRegistration -Password and Conf Password mismatch on TAB: Senthil Kumar 33 TC_12
+21:22:35.302 INFO  portalvalidation.NewtRegistration -Password and conf. Password are empty on Submit: Senthil Kumar 33 TC_12
+21:24:13.126 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 4 TC_01
+21:35:59.897 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 4 TC_01
+21:36:14.429 INFO  portalvalidation.NewtRegistration -Email and Conf email mismatch on tab :Senthil Kumar 8 TC_02
+21:36:28.665 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 8 TC_02
+21:36:42.818 INFO  portalvalidation.NewtRegistration -Email and Conf email mismatch on tab :Senthil Kumar 7 TC_03
+21:36:57.072 INFO  portalvalidation.NewtRegistration -email and conf email are empty on Submit: Senthil Kumar 7 TC_03
+21:37:40.358 INFO  portalvalidation.NewtRegistration -fname is less than 2 chars on Submit: S TC_05
+21:38:02.427 INFO  portalvalidation.NewtRegistration -fname is empty on Submit:  TC_06
+21:38:23.723 INFO  portalvalidation.NewtRegistration -Last name  is empty on Submit: Senthil Kumar TC_07
+21:39:05.835 INFO  portalvalidation.NewtRegistration -Password and conf. Password are empty on Submit: Senthil Kumar 30 TC_09
+21:39:20.321 INFO  portalvalidation.NewtRegistration -Password Empty on TAB: Senthil Kumar 31 TC_10
+21:39:38.023 INFO  portalvalidation.NewtRegistration -Password Length Error on TAB: Senthil Kumar 32 TC_11
+21:40:02.331 INFO  portalvalidation.NewtRegistration -Password and Conf Password mismatch on TAB: Senthil Kumar 33 TC_12
+21:40:27.505 INFO  portalvalidation.NewtRegistration -Password valid and confirm Password empty on Submit: Senthil Kumar 34 TC_13
